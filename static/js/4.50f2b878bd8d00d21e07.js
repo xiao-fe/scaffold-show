@@ -1,0 +1,2 @@
+webpackJsonp([4],{"/Qax":function(t,e){},"eX+d":function(t,e,s){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var a={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"page"},[e("p",{staticClass:"text"},[this._v(this._s(this.text))])])},staticRenderFns:[]};var n=s("VU/8")({data:function(){return{text:"成长"}}},a,!1,function(t){s("/Qax")},"data-v-f9c57870",null);e.default=n.exports}});
+//# sourceMappingURL=4.50f2b878bd8d00d21e07.js.map

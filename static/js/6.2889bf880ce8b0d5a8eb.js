@@ -1,0 +1,2 @@
+webpackJsonp([6],{MsLW:function(t,e){},TIyV:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var a={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"header-only"},[e("p",[this._v(this._s(this.text))])])},staticRenderFns:[]};var s=n("VU/8")({name:"header-only",data:function(){return{text:"奔跑"}}},a,!1,function(t){n("MsLW")},"data-v-6a5482ca",null);e.default=s.exports}});
+//# sourceMappingURL=6.2889bf880ce8b0d5a8eb.js.map
